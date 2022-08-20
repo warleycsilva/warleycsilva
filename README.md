@@ -31,14 +31,15 @@
 </div>
 </div>
 
-### :woman_technologist: About Me :
-I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+### :coffee: About Me :
+I am a software engineer from Brazil. :brazil:
+>
 I always seeking to become a better person and professional for each challenge, i don't know
 everything (yet) but I'm always on the way. Everything is a learning opportunity and I believe
 that only by stepping out of the comfort zone and doing the right we can evolve and achieve
 the best results.
 
-"Quality means doing it right when no one is looking." -Henry Ford
+>"Quality means doing it right when no one is looking." -Henry Ford
 
 
 - :coffee: I’m currently working as a software engineer and tech lead contributing to frontend and backend for building web and mobile applications.
