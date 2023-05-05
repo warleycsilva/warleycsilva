@@ -32,17 +32,13 @@
 </div>
 
 ### :coffee: About Me :
-I am a software engineer from Brazil. :brazil:
+Warley is a software engineer with 8+ years of experience in the IT industry.
+During this period, working as IT analyst, as PM, and mainly as tech lead and software developer, with multi-skills teams, collaborating with designers, product managers and developers.
 >
-I always seeking to become a better person and professional for each challenge, i don't know
-everything (yet) but I'm always on the way. Everything is a learning opportunity and I believe
-that only by stepping out of the comfort zone and doing the right we can evolve and achieve
-the best results.
-
->"Quality means doing it right when no one is looking." -Henry Ford
+A strong team player with excellent collaborative skills and accurate, succinct and clear communication, with ease adaptation and learning of new solutions (tech or not), with creativity and sensibility to the user's experience and keeping always a good team play.
 
 
-- :coffee: I’m currently working as a software engineer and tech lead contributing to frontend and backend for building web and mobile applications.
+- :coffee: I’m currently working as a Software Developer and Tech Lead contributing to frontend and backend for building web and mobile applications.
 > - Currently working with working with apps in React Native CLI (Typescript/Javascript).
 > - Web apps in React and Angular 2+ (Typescript/Javascript).
 > - Backend in .NET Framework 4.0 + and .NET Core 3.0.1 +
