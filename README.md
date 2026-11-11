@@ -45,7 +45,7 @@ A strong team player with clear, succinct communication. He adapts quickly to ne
 
 - :phone: How to reach me:
 > - :globe_with_meridians: LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Warley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/warley-silva/)
-> - :mailbox: Mail: warleycesar10@hotmail.com
+> - :mailbox: Mail: warleycssilva@gmail.com
 
 
 ### :fire: Current Stats :
